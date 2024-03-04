@@ -1,3 +1,9 @@
+"""""
+###Notes###
+
+"""""
+
+
 class Product:
     # data, state
     price: float
